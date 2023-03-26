@@ -1,0 +1,12 @@
+Package: CCCCMR
+Title: 孟德尔自建包
+Version: 1.0
+Authors: "chenjixinnnn"
+Maintainer: chenjixinnnn<cjx_tcm@163.com>
+Description: 快速获取孟德尔随机化分分析结果
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+NeedsCompilation: no
+Packaged: 2023-03-26 13:05:25 UTC; chenjixinnnn
